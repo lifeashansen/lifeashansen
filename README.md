@@ -27,6 +27,7 @@
        - DevOps: Docker, Kubernetes, Github Actions 
        - Web Dev: React with Typescript, TailwindCSS
        - Mobile Dev: Flutter with Dart
+       - Misc: Vim
 
   - currently learning: 
        - Devops
