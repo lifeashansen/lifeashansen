@@ -45,6 +45,8 @@
        - Solo bush walking
  
 
+<br/>
+
 <div align=center>
   <!-- <div> -->
   <!--    <a href="https://github.com/lifeashansen/github-readme-stats"> -->
