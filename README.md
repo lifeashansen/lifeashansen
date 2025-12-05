@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align=center>
 
   [![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&style=for-the-badge&logoColor=0b62c3)](https://discord.com/users/723395805800562729)
@@ -56,6 +58,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 <div align="right">
-  <a href="#readme">Back to the Top</a>
+  <a href="#top">Back to the Top</a>
 </div>
 
