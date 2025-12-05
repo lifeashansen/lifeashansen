@@ -52,3 +52,10 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=lifeashansen&theme=dark)
 </div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+
+<div align="right">
+  <a href="#readme">Back to the Top</a>
+</div>
+
