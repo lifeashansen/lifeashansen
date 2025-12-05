@@ -46,11 +46,11 @@
  
 
 <div align=center>
-  <div>
-     <a href="https://github.com/lifeashansen/github-readme-stats">
-       <img src="https://github-readme-stats.vercel.app/api?username=lifeashansen&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" alt="Verse's GitHub stats"/>
-     </a>
-  </div>
+  <!-- <div> -->
+  <!--    <a href="https://github.com/lifeashansen/github-readme-stats"> -->
+  <!--      <img src="https://github-readme-stats.vercel.app/api?username=lifeashansen&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" alt="Verse's GitHub stats"/> -->
+  <!--    </a> -->
+  <!-- </div> -->
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=lifeashansen&theme=dark)
 </div>
