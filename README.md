@@ -14,8 +14,6 @@
   ## **Hi 👋, I'm Hansen, and I'm**
   
 </div>
-
-  - an experienced software engineer with a passion for building and learning
   
   - from Nairobi, Kenya
   
