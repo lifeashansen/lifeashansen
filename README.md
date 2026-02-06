@@ -17,7 +17,7 @@
   
   - from Nairobi, Kenya
   
-  - currently pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
+  - a final year student pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
 
   - skilled in:
        - Languages: Go, Rust, Dart, Lua, Typescript, Javascript, Bash, Nix, SQL
