@@ -14,10 +14,6 @@
   ## **Hi 👋, I'm Hansen, and I'm**
   
 </div>
-  
-  - from Nairobi, Kenya
-  
-  - a final year student pursuing a Bachelor's Degree in Software Engineering at [Zetech University](https://www.zetech.ac.ke/)
 
   - skilled in:
        - Languages: Go, Rust, Dart, Lua, Typescript, Javascript, Bash, Nix, SQL
