@@ -16,27 +16,15 @@
 </div>
 
   - skilled in:
-       - Languages: Go, Rust, Dart, Lua, Typescript, Javascript, Bash, Nix, SQL
+       - Languages: Go, Rust, Python, Bash, Nix, Java
        - System Administration: Linux, Nixos
-       - Databases: PostgreSQL, MongoDB, Supabase
-       - Cloud Platforms: Supabase, Firebase
-       - DevOps: Docker, Kubernetes, Github Actions 
-       - Web Dev: React with Typescript, TailwindCSS
-       - Mobile Dev: Flutter with Dart
-       - Misc: Vim
+       - Databases: PostgreSQL, MongoDB, MySQL
+       - Cloud Platforms: AWS,Azure
+       - DevOps: Docker, Kubernetes, Github Actions, Ansible, Terraform 
 
   - currently learning: 
        - Devops
        - Go
-
-  - planning to learn these in the future:
-       - Java & Springboot
-       - MLOps
-  
-  - interested in:
-       - Chess
-       - Piano
-       - Solo bush walking
  
 
 <br/>
