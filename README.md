@@ -16,15 +16,14 @@
 </div>
 
   - skilled in:
-       - Languages: Go, Rust, Python, Bash, Nix, Java
+       - Languages: C++, Java, Go, Rust, Python, Bash, Nix
        - System Administration: Linux, Nixos
-       - Databases: PostgreSQL, MongoDB, MySQL
-       - Cloud Platforms: AWS,Azure
+       - Databases: PostgreSQL, MySQL, MongoDB, MySQL
+       - Cloud Platforms: AWS, Azure, GCP
        - DevOps: Docker, Kubernetes, Github Actions, Ansible, Terraform 
 
   - currently learning: 
-       - Devops
-       - Go
+       - C++ ( This is a joke btw, XXD )
  
 
 <br/>
